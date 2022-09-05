@@ -35,7 +35,9 @@
 // feast(beast, dish)
 
 //TASK
-
+// function removeEveryOther(arr){
+//     //your code here
+//   }
 
 
 //TASK
