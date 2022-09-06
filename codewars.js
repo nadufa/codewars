@@ -35,9 +35,26 @@
 // feast(beast, dish)
 
 //TASK
-// function removeEveryOther(arr){
-//     //your code here
-//   }
+
+// arr = [0, 1, 2, 3, 4, 5]
+// arrLength = arr.length
+
+// function removeEveryOther(arr) {
+//     for (let i = 1; arrLength > (i - 1); i++) {
+//         arr.splice(i, 1)
+//         arrLength -= 1
+//     }
+//     console.log(arr);
+// }
+
+// removeEveryOther(arr)
+
+// console.log(1)
+
+//0 [0, 1, 2, 3, 4, 5]
+//1 [0, 2, 3, 4, 5]
+//2 [0, 2, 4, 5]
+//3 [0, 2, 4]
 
 
 //TASK
