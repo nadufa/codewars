@@ -242,8 +242,47 @@
 //
 
 
-//TASK
+//TASK 7
 
+// data = [
+//     [45, 12],
+//     [55, 21],
+//     [19, -2],
+//     [104, 20]
+// ]
+
+// console.log("data = " + data)
+
+// function openOrSenior(data) {
+//     let result = []
+//     let param1 = true
+//     let param2 = true
+//     for (let i = 0; i < data.length; i++) {
+//         for (let j = 0; j < 2; j++) {
+//             if (j == 0) {
+//                 if (data[i][j] >= 55) {
+//                     param1 = true
+//                 } else {
+//                     param1 = false
+//                 }
+//             } else {
+//                 if (data[i][j] > 7) {
+//                     param2 = true
+//                 } else {
+//                     param2 = false
+//                 }
+//             }
+//         }
+//         if (param1 == true && param2 == true) {
+//             result.push('Senior')
+//         } else {
+//             result.push('Open')
+//         }
+
+//     }
+//     console.log(result)
+// }
+// openOrSenior(data)
 
 
 //TASK
