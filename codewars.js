@@ -128,6 +128,41 @@
 
 //TASK
 
+// a = 4
+// b = 3
+
+// console.log("a = " + a)
+// console.log("b = " + b)
+
+// // 1 2 3 ===== 6
+
+// function getSum(a, b) {
+//     if (a == b) {
+//         console.log("a == b")
+//         console.log(a)
+//     }
+//     if (a > b) {
+//         console.log("a > b")
+//         let temp = a
+//         a = b
+//         b = temp
+//         console.log("now a = " + a)
+//         console.log("now b = " + b)
+//     }
+//     if (b > a) {
+//         let sum = b
+//         while (a < b) {
+//             sum += a
+//             a++
+//         }
+//         console.log("sum = " + sum)
+//     }
+
+// }
+
+// getSum(a, b)
+
+
 
 
 //TASK
