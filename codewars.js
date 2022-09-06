@@ -103,6 +103,59 @@
 
 //TASK
 
+// array = [0, 1, 2]
+// console.log(array.length)
+
+// function find_average(array) {
+//     if (array.length > 0) {
+//         let productSum = 0
+//         let divisor = 0
+//         for (let i = 0; i < array.length; i++) {
+//             productSum += array[i]
+//             divisor++
+//         }
+//         let result = productSum / divisor
+//         console.log("sum = " + productSum)
+//         console.log("givisor = " + divisor)
+//         console.log(result);
+//     } else {
+//         console.log(0)
+//     }
+
+// }
+
+// find_average(array)
+
+//TASK
+
+
+
+//TASK
+
+
+
+//TASK
+
+
+
+//TASK
+
+
+
+//TASK
+
+
+
+//TASK
+
+
+
+//TASK
+
+
+
+//TASK
+
 
 
 //TASK
