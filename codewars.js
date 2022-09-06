@@ -58,8 +58,32 @@
 
 
 //TASK
-// smth task
 
+// let string = "h1 i 500 so0"
+// console.log(string)
+
+// let arr = string.split('')
+// console.log(arr)
+
+// for (let i = 0; i <= arr.length; i++) {
+//     switch (arr[i]) {
+//         case "1":
+//             arr[i] = "I"
+//             break
+//         case "5":
+//             arr[i] = "S"
+//             break
+//         case "0":
+//             arr[i] = "O"
+//             break
+
+//         default:
+//             break;
+//     }
+// }
+// console.log(arr)
+// string = arr.join('')
+// console.log(string)
 
 //TASK
 
