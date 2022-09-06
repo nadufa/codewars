@@ -190,12 +190,56 @@
 
 
 
-//TASK
+//TASK... DON'T WORK
+
+// string = "hello world my name nadufa"
+// arr = string.split(' ')
+// console.log(arr)
+
+// //['hello', 'world', 'my', 'name', 'nadufa']
+
+// let underArr = []
+// let temp = ""
+
+// for (i = 0; i < arr.length; i++) {
+//     underArr = arr[i].split('')
+//     temp = underArr[0]
+//     underArr[0] = temp.toUpperCase
+//     arr[i] = underArr.join('')
+// }
+
+// string = arr.join(' ')
+
+// console.log(string)
+
+//TASK DON'T WORK
+
+// n = 6279
+// arr = [6, 2, 7, 9]
+// newArr
+// console.log(arr)
+
+// function getMaxOfArray(numArray) {
+//     return Math.max.apply(null, numArray);
+// }
+
+// for (let i = 0; i < arr.length; i++) {
+//     newArr.push(getMaxOfArray(arr))
+//     console.log(newArr)
+// }
+
+// function descendingOrder(n) {
+
+// }
 
 
-
-//TASK
-
+// 6279
+// arr = [6, 2, 7, 9]
+// arr
+//
+//
+//
+//
 
 
 //TASK
