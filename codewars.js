@@ -86,8 +86,20 @@
 // console.log(string)
 
 //TASK
+// s = "sdiuesg! !!! svc! !skdjbs"
 
+// function removeExclamationMarks(s) {
+//     let arr = s.split('')
+//     for (let i = 0; i <= arr.length; i++) {
+//         if (arr[i] == "!") {
+//             delete arr[i]
+//         }
+//     }
+//     s = arr.join('')
+//     console.log(s);
+// }
 
+// removeExclamationMarks(s)
 
 //TASK
 
