@@ -34,7 +34,18 @@
 
 // feast(beast, dish)
 
-//TASK
+
+
+
+
+
+// 06.09.2022
+
+
+
+
+
+//TASK1
 
 // arr = [0, 1, 2, 3, 4, 5]
 // arrLength = arr.length
@@ -57,7 +68,7 @@
 //3 [0, 2, 4]
 
 
-//TASK
+//TASK2
 
 // let string = "h1 i 500 so0"
 // console.log(string)
@@ -85,7 +96,8 @@
 // string = arr.join('')
 // console.log(string)
 
-//TASK
+//TASK 3
+
 // s = "sdiuesg! !!! svc! !skdjbs"
 
 // function removeExclamationMarks(s) {
@@ -101,7 +113,7 @@
 
 // removeExclamationMarks(s)
 
-//TASK
+//TASK 4
 
 // array = [0, 1, 2]
 // console.log(array.length)
@@ -126,7 +138,7 @@
 
 // find_average(array)
 
-//TASK
+//TASK 5
 
 // a = 4
 // b = 3
@@ -165,7 +177,16 @@
 
 
 
-//TASK
+//TASK6
+
+// const reverseSeq = n => {
+//     arr = []
+//     while(n >= 1){
+//       arr.push(n)
+//       n--
+//     }
+//     return arr;
+//   };
 
 
 
