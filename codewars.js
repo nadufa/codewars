@@ -245,10 +245,10 @@
 //TASK 7
 
 // data = [
-//     [45, 12],
-//     [55, 21],
-//     [19, -2],
-//     [104, 20]
+//     [59, 12],
+//     [55, -1],
+//     [12, -2],
+//     [12, 12]
 // ]
 
 // console.log("data = " + data)
@@ -285,7 +285,36 @@
 // openOrSenior(data)
 
 
-//TASK
+
+
+
+
+
+//  07.09.2022
+
+
+
+
+
+
+//TASK 1
+
+// numbers = [10, 100, 7, 1000]
+
+// function sumTwoSmallestNumbers(numbers) {  
+//     let indexOfMin = 0
+//     let sum = 0
+
+//     for (let i = 0; i < 2; i++) {
+//         indexOfMin = numbers.indexOf(Math.min(...numbers))
+//         sum += numbers[indexOfMin]
+//         numbers.splice(indexOfMin, 1)
+//     }
+
+//     console.log(sum)
+// }
+
+
 
 
 
