@@ -318,12 +318,57 @@
 
 
 
-//TASK
+//TASK DON'T WORK
+
+// function removeSmallest(numbers) {
+//     let indexOfMin = numbers.indexOf(Math.max(...numbers))
+//     for (let i = numbers.length; i >= 1; i--) {
+//       if (numbers[i] <= numbers[indexOfMin]) {
+//         indexOfMin = i
+//       }
+//     }
+//     let result = numbers
+//     result.splice(indexOfMin, 1)
+//     return result
+//   }
 
 
+//TASK 2 soo long
+// let s = "omg"
+// let m = s.split('')
+// s = m.join('')
+// console.log('m = ' + m)
+// console.log('s = ' + s)
 
-//TASK
 
+// let str = "Hello my friend"
+//     //arrOfWods = ['Hi', 'my', 'friend']
+//     //word in 1 = ['H', 'i']
 
+// function reverseWords(str) {
+//     console.log("str = " + str)
+//     let arrOfWods = str.split(' ')
+//     console.log("arrOfWords = " + arrOfWods)
+//     let result = []
+//     let arrOfSplitLetters = []
+//     for (let i = 0; i < arrOfWods.length; i++) {
+//         let word = arrOfWods[i]
+//         let drow = []
+//         console.log("word [" + i + "] = " + word)
+//         let arrOfLetters = word.split('')
+//         for (let j = arrOfLetters.length - 1; j >= 0; j--) {
+//             arrOfSplitLetters.push(arrOfLetters[j])
+//         }
+//         console.log("arrOfSplitLetters [" + i + "] = " + arrOfSplitLetters)
+//         drow = arrOfSplitLetters.join('')
+//         console.log("drow [" + i + "] = " + drow)
+//         result.push(drow)
+//         arrOfSplitLetters = []
+//     }
+//     let final = result.join(' ')
+//     console.log(final)
+// }
+
+// reverseWords(str)
 
 //TASK
